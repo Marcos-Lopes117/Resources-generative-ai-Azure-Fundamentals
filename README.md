@@ -15,7 +15,7 @@ Compreendendo esse conceito, exploramos as diferentes aplicações e potenciais 
 ## Utilização
 - Utilizarei nesse repositório o Copilot, que para acessar é necessário estar no navegador da Microsoft, o Microsoft Edge. E assim que fazemos alguma pesquisa, o copilot aparece disponível abaixo da barra de pesquisa.
 
-![utilização](https://raw.githubusercontent.com/VicLira/exploring-resources-with-microsoft-copilot/main/assets/utilizacao.png)
+![utilização](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/assets/utilizacao.png)
 
 ## Recursos
 - Entre os recursos da IA Generativa Copilot, estão: 
@@ -31,19 +31,19 @@ Compreendendo esse conceito, exploramos as diferentes aplicações e potenciais 
 
 ### Recursos de Geração de Código
 
-![input02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input02-text.png)
-![resultado02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result02-text.png)
+![input02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input02-code.png)
+![resultado02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result02-code.png)
 
 
 ### Recursos de Geração de Imagens
 
-![input03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input03-text.png)
-![resultado03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result03-text.png)
+![input03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input03-img.png)
+![resultado03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result03-img.png)
 
 
 ## Dicas e Truques
 
-[prompt-guide](https://www.promptingguide.ai/pt )
+[prompt-guide](https://www.promptingguide.ai/pt)
 
 O PromptGuide é um recurso abrangente dedicado à engenharia de prompts, uma disciplina que envolve o desenvolvimento e a otimização de prompts para usar eficientemente modelos de linguagem (LMs) em uma variedade de aplicações e tópicos de pesquisa. O guia oferece informações sobre como entender melhor as capacidades e limitações dos grandes modelos de linguagem (LLMs), técnicas de prompting avançadas, e como essas habilidades podem ser aplicadas para melhorar a segurança e construir novas funcionalidades em LLMs. Além disso, o guia contém artigos, técnicas de prompting, guias de aprendizagem, referências e ferramentas relacionadas à engenharia de prompts1
 
