@@ -25,20 +25,20 @@ Compreendendo esse conceito, exploramos as diferentes aplicações e potenciais 
 
 ### Recursos de Geração de Texto
 
-![input01-texto](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/inputs/input01-text.png)
-![resultado01-texto](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/outputs/result01-text.png)
+![input01-texto](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input01-text.png)
+![resultado01-texto](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result01-text.png)
 
 
 ### Recursos de Geração de Código
 
-![input02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/inputs/input02-text.png)
-![resultado02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/outputs/result02-text.png)
+![input02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input02-text.png)
+![resultado02-code](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result02-text.png)
 
 
 ### Recursos de Geração de Imagens
 
-![input03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/inputs/input03-text.png)
-![resultado03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-with-generative-ai/main/outputs/result03-text.png)
+![input03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/inputs/input03-text.png)
+![resultado03-imagem](https://raw.githubusercontent.com/VicLira/exploring-resources-generative-ai/main/outputs/result03-text.png)
 
 
 ## Dicas e Truques
